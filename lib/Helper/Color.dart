@@ -15,11 +15,11 @@ const MaterialColor primary_app = const MaterialColor(
     900: primary,
   },
 );
-const Color primary =Color(0xffF427C0);
-const Color secondary = Color(0xffFFF100);
+const Color primary =Color(0xffbf2b92);
+const Color secondary = Color(0xffbf2b92);
 const Color fontColor = Colors.black;
-const Color grad1Color = Color(0xffF427C0);
-const Color grad2Color = Color(0xffFFF100);
+const Color grad1Color = Color(0xffbf2b92);
+const Color grad2Color = Color(0xffbf2b92);
 //const Color lightWhite2 = Color(0xffEEF2F3);
 
 //const Color disableColor = Color(0xffEEF2F9);

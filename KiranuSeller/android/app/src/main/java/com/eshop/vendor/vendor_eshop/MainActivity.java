@@ -1,4 +1,4 @@
-package com.kiranu.seller;
+package com.fastdy.seller;
 
 import io.flutter.embedding.android.FlutterActivity;
 

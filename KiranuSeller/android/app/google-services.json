@@ -46,7 +46,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:599239029348:android:f5a3f78fb998b2ba4b2571",
         "android_client_info": {
-          "package_name": "com.kiranu.seller"
+          "package_name": "com.fastdy.seller"
         }
       },
       "oauth_client": [
@@ -54,7 +54,7 @@
           "client_id": "599239029348-o8o48o12b385f79lbihd1sc9oqljs9ci.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.kiranu.seller",
+            "package_name": "com.fastdy.seller",
             "certificate_hash": "f4993d8242d5d25094f0d701ec15eff337f4811f"
           }
         },
